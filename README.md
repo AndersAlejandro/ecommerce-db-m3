@@ -1,6 +1,6 @@
 # Proyecto E-commerce - Módulo 3
 
-Este repositorio contiene el modelo de base de datos relacional para una plataforma de E-commerce. El proyecto abarca desde el diseño del diagrama entidad-relación (ER) hasta la implementación en SQL, incluyendo la creación de tablas, inserción de datos de prueba, consultas analíticas de negocio y transacciones complejas.
+Este repositorio contiene el modelo de base de datos relacional para una plataforma de E-commerce. El proyecto abarca desde el diseño del diagrama entidad-relación hasta la implementación en SQL, incluyendo la creación de tablas, inserción de datos de prueba, consultas analíticas de negocio y transacciones complejas.
 
 ## Descripción del Proyecto
 
@@ -59,6 +59,6 @@ A continuación se muestran capturas de pantalla de los resultados obtenidos al 
 ### 4. Ventas mensuales
 ![Consulta 4](./consulta_4.png)
 
-
+**Enlace Repositorio:** https://github.com/AndersAlejandro/ecommerce-db-m3
 **Autor:** Anders Alejandro Mamani Choquehuanca
 **Bootcamp:** Módulo 3
